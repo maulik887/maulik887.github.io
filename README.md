@@ -1,8 +1,8 @@
-#Maulik Patel - Full Stack Web Developer
-Welcome to my GitHub, feel free to look around.
-===============================================
+##Maulik Patel - Full Stack Web Developer
 
-###This site represents my virtual identity. [Pay me a visit!](http://maulik.me)
+####Welcome to my GitHub, feel free to look around.
+
+####This site represents my virtual identity. [Pay me a visit!](http://maulik.me)
 
 This code refers to my personal website, Setup instruction-
 
